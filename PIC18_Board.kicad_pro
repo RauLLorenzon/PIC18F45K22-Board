@@ -440,6 +440,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -634,6 +635,10 @@
     [
       "2f916c29-4892-46cf-b8d8-d3ba76e6e4e1",
       "PORTS"
+    ],
+    [
+      "4c63eaac-3bed-439a-99ba-d7c7b8737a03",
+      "Power"
     ]
   ],
   "text_variables": {}
